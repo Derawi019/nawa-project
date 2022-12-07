@@ -94,7 +94,7 @@ header .dropdown-item:hover {
 }
 
 #hero2 {
-    background-image: url(../IMAGES/homepage-option17-banner-bg.jpg);
+    background-image: url(../images/homepage-option17-banner-bg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 100%;
@@ -218,7 +218,7 @@ p span {
 }
 
 #hero8 {
-    background-image: url(../IMAGES/5857c963-e8af-4c4b-882c-3c314cfd274b.jpg);
+    background-image: url(../images/5857c963-e8af-4c4b-882c-3c314cfd274b.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 100%;
@@ -238,7 +238,7 @@ p span {
 }
 
 .hero9 {
-    background-image: url(../IMAGES/parallax-bg6.jpg);
+    background-image: url(../images/parallax-bg6.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 100%;
