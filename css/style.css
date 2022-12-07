@@ -244,3 +244,55 @@ p span {
     height: 100%;
 
 }
+
+.a {
+    color: #000;
+}
+
+body .footer #footer_up {
+    background-color: #141414;
+
+}
+
+.footer section div span {
+    font-size: 0.8rem;
+}
+
+.footer section div a {
+    text-decoration: none;
+}
+
+.footer .links a:hover {
+    color: #ff214f !important;
+
+}
+
+footer #footer_blog {
+    list-style-type: none;
+}
+
+.footer #website a:hover {
+    color: #ff214f !important;
+
+}
+
+body .footer #footer_mid,
+#footer_down {
+    background-color: #1c1c1c !important;
+}
+
+body .footer #footer_mid #input_email {
+    opacity: 0;
+    background-color: #1c1c1c;
+    border-style: solid;
+    border-color: #4e4d4d;
+
+}
+
+body .footer #footer_mid #button-enter {
+    background-color: #1c1c1c;
+    border-style: solid;
+    border-color: #4e4d4d;
+
+
+}
